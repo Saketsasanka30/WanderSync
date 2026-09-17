@@ -1,0 +1,6 @@
+{
+  "name": "Roamly",
+  "description": "Plan the trip. Live the journey. The all-in-one travel operating system for itineraries, maps, bookings, budgeting, checklists, and collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
